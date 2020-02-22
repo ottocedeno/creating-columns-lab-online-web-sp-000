@@ -51,11 +51,6 @@ img:hover {
   display: inline-block;
   width: 30%
 }
-
-div.column img {
-  display: inline;
-  vertical-align: top;
-}
 /* create your tile classes! we recommend .small .med .large */
 .small {
   width: 100%
