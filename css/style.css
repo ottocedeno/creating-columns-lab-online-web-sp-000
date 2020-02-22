@@ -53,7 +53,7 @@ img:hover {
 }
 
 div.column img {
-  display: inline
+  display: inline;
   vertical-align: top;
 }
 /* create your tile classes! we recommend .small .med .large */
